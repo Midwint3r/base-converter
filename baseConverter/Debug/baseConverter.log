@@ -1,5 +1,6 @@
 ﻿  baseConverter.cpp
-D:\dev\c++\baseConverter\baseConverter\baseConverter.cpp(24,37): warning C4244:  '=' : conversion de 'int' en 'float', perte possible de données
-D:\dev\c++\baseConverter\baseConverter\baseConverter.cpp(28,9): warning C4244:  'return' : conversion de 'float' en 'int', perte possible de données
-D:\dev\c++\baseConverter\baseConverter\baseConverter.cpp(45,15): warning C4244:  'initialisation' : conversion de 'int' en 'float', perte possible de données
-  baseConverter.vcxproj -> D:\dev\c++\baseConverter\Debug\baseConverter.exe
+D:\dev\c++\base-converter\baseConverter\baseConverter.cpp(67,21): warning C4244:  '=' : conversion de 'int' en 'float', perte possible de données
+D:\dev\c++\base-converter\baseConverter\baseConverter.cpp(72,9): warning C4244:  'return' : conversion de 'float' en 'int', perte possible de données
+D:\dev\c++\base-converter\baseConverter\baseConverter.cpp(96,15): warning C4244:  'initialisation' : conversion de 'int' en 'float', perte possible de données
+D:\dev\c++\base-converter\baseConverter\baseConverter.cpp(36): warning C4172:  retourne l'adresse d'une variable locale ou : values temporaire
+  baseConverter.vcxproj -> D:\dev\c++\base-converter\Debug\baseConverter.exe
