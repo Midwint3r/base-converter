@@ -1,0 +1,5 @@
+﻿  baseConverter.cpp
+D:\dev\c++\baseConverter\baseConverter\baseConverter.cpp(24,37): warning C4244:  '=' : conversion de 'int' en 'float', perte possible de données
+D:\dev\c++\baseConverter\baseConverter\baseConverter.cpp(28,9): warning C4244:  'return' : conversion de 'float' en 'int', perte possible de données
+D:\dev\c++\baseConverter\baseConverter\baseConverter.cpp(45,15): warning C4244:  'initialisation' : conversion de 'int' en 'float', perte possible de données
+  baseConverter.vcxproj -> D:\dev\c++\baseConverter\Debug\baseConverter.exe
